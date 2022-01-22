@@ -64,4 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-using packages
+Package Used : 
+https://docs.laravel-excel.com/3.1/exports/
+https://www.codecheef.org/article/laravel-6-notification-tutorial-create-notification-with-laravel-6
+https://github.com/fxcosta/laravel-chartjs
+https://laravel.com/docs/8.x/notifications
+https://laravel.com/docs/8.x/filesystem
